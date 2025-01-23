@@ -1,0 +1,12 @@
+*{ 
+    background-color: lightgrey; text-align: center; }
+    div>img{box-shadow: 2px 2px 1px black;border: 1px solid black;}
+    .product-card{ word-spacing: 0%; border: 1px solid black; }
+.product-title{font-size: xx-large ;}
+div{margin: 20px;
+padding: 20px; ;}
+.n{text-transform: capitalize;overflow: auto; max: width 1px; ;}
+img {background-image:pictur/border-image}
+    
+     
+
